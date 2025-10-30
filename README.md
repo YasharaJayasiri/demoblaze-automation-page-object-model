@@ -23,4 +23,10 @@ The project uses **Page Classes** and **Test Classes** to ensure modularity, reu
 6. **Assertions:** Verified page titles and key UI elements to ensure correct navigation
 
  
+<img width="1920" height="1080" alt="Screenshot (1029)" src="https://github.com/user-attachments/assets/74e63036-1bf2-4739-962b-27b5d2bb64f7" />
+<img width="1920" height="1080" alt="Screenshot (1030)" src="https://github.com/user-attachments/assets/91db974f-d9f4-43d7-a3b4-89f5036ed6c3" />
+<img width="1920" height="1080" alt="Screenshot (1031)" src="https://github.com/user-attachments/assets/c0daa2f9-2325-4fdb-aea3-a04b3a3d586b" />
+<img width="1920" height="1080" alt="Screenshot (1032)" src="https://github.com/user-attachments/assets/5143dbd8-f1d1-4d68-a690-c58f55074da5" />
+<img width="1920" height="1080" alt="Screenshot (1033)" src="https://github.com/user-attachments/assets/21d50465-fb87-4557-9a7b-ac49b4a4e50b" />
+<img width="1920" height="1080" alt="Screenshot (1034)" src="https://github.com/user-attachments/assets/6fcb2229-fe6e-4802-8084-7a68c6feab97" />
 
