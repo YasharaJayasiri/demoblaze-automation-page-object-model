@@ -1,7 +1,7 @@
 # Demoblaze Automation Using Page Object Model (POM)
 
 ## Overview
-This project demonstrates the **automation of the Demoblaze e-commerce website** using the **Page Object Model (POM)**.  
+This project demonstrates the **automation of the Demoblaze e-commerce website** (https://www.demoblaze.com/)using the **Page Object Model (POM)**.  
 The automation covers end-to-end workflows including **user signup, login, homepage function checks, product browsing, add-to-cart, checkout, and purchase flows**.  
 
 The project uses **Page Classes** and **Test Classes** to ensure modularity, reusability, and maintainability. Assertions are implemented to validate page titles and key elements during navigation.
